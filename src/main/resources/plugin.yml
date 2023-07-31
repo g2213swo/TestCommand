@@ -1,0 +1,11 @@
+name: TestCommand
+version: '${version}'
+main: me.g2213swo.testcommand.TestCommand
+api-version: '1.20'
+author: g2213swo
+description: TestCommand
+commands:
+  testcommand:
+    description: TestCommand
+    usage: /<command>
+    aliases: [ tc ]

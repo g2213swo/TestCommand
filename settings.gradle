@@ -1,0 +1,3 @@
+rootProject.name = 'TestCommand'
+include 'api'
+
